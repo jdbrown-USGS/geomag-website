@@ -4,6 +4,7 @@
     $TITLE = "Contact Us";
     $HEAD = '<link rel="stylesheet" href="contact.css"/>';
     $CONTACT = "geomagdata";
+
     include 'template.inc.php';
   }
 ?>
